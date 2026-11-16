@@ -2,10 +2,9 @@
 
 ## Colab links for notebooks
 
-- [Medicare Data]( https://colab.research.google.com/github/BBER-DUC/Medicare-data/blob/main/medicare-data.ipynb )
-- [Medicare Archive Data]( https://colab.research.google.com/github/BBER-DUC/Medicare-data/blob/main/medicare-archive-data.ipynb)
+- [Medicare Data]( https://colab.research.google.com/github/BBER-DUC/Data-Wrangling-of-Public-Data/blob/main/medicare-data.ipynb )
+- [Medicare Archive Data]( https://colab.research.google.com/github/BBER-DUC/Data-Wrangling-of-Public-Data/blob/main/medicare-archive-data.ipynb)
 
 
-- https://colab.research.google.com/github/BBER-DUC/Medicare-data/blob/main/101-data.csv.ipynb
-
+- https://colab.research.google.com/github/BBER-DUC/Data-Wrangling-of-Public-Data/blob/main/101-data.csv.ipynb
 
