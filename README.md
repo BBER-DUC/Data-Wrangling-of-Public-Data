@@ -1,10 +1,11 @@
 # Data Wrangling of Public Data
 
-## Colab links for notebooks
+Robert Citek
+CNM Ingenuity
+rcitek@cnm.edu
 
-- [Medicare Data]( https://colab.research.google.com/github/BBER-DUC/Data-Wrangling-of-Public-Data/blob/main/medicare-data.ipynb )
-- [Medicare Archive Data]( https://colab.research.google.com/github/BBER-DUC/Data-Wrangling-of-Public-Data/blob/main/medicare-archive-data.ipynb)
+- [Slide Deck]( https://docs.google.com/presentation/d/1l2If_kPVakdP7_BdrY8VfcDZYUm3ACC2UizYz-Q8pN8/edit?usp=sharing )
+- [Hugging Face]( https://huggingface.co/ )
+- [Google Colab]( https://colab.research.google.com/ )
 
-
-- [101 - CSV]( https://colab.research.google.com/github/BBER-DUC/Data-Wrangling-of-Public-Data/blob/main/101-data.csv.ipynb )
 
